@@ -1,0 +1,47 @@
+body{
+    background: rgb(166, 222, 245);
+}
+.test_image_and_result{
+    background-color: gray;
+    padding: 10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px rgb(255, 254, 254);
+    line-height: 7;
+    font-size: 30px;
+}
+.test_image_and_result img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    border: 3px solid blue;
+}
+.miniresult{
+    background-color: rgb(160, 164, 216);
+    color: linen;
+    border: 2px solid rgb(0, 234, 255);
+    border-radius: 20px;
+}
+.test_image_and_result h5{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border-radius: 20px;
+    font-size: 20px;
+}
+h1{
+  font-family: cursive;  
+  font-weight: 600;
+}
+h2{
+    font-family: fantasy;
+    font-weight: bold;
+}
+.copyrightfooter{
+    position: fixed;
+   color: rgb(5, 253, 241);
+   bottom: 0;
+   width: 100%;
+   background-color: coral;
+   line-height: 3;
+   text-align: center;
+}
